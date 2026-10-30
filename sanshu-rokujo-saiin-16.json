@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/rokujo-saiin-16",
  "yomi": "ろくじょうさいいんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "未詳",
+  "author": "主催 禖子内親王（六条斎院）",
+  "desc": "六条斎院禖子内親王の家の歌合の一つ。原本に年月日が無く、どの回にあたるかは推定にとどまる。「秋立」の題を、美作・中務・丹後・宣旨・出羽・遠江・武蔵・駒君・式部ら女房が詠む。"
+ },
  "editions": [
   {
    "pid": "1128193",
